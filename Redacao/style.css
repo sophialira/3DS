@@ -1,4 +1,14 @@
 .tema{
-    font-family:'Times New Roman', Times, serif
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:darkslategrey;
+    color:beige;
+    text-align: center;
 
+}
+
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
 }
